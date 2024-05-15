@@ -75,7 +75,7 @@ const Contact = () => {
                     Contact us
                   </span>
                   <span className="leading-[3.5rem] trackng-tight font-mona-sans mt-6 block max-w-5xl text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-[3rem]">
-                    Let’s work together
+                    {`Let’s work together`}
                   </span>
                 </h1>
                 <div className="font-mona-sans mt-6 max-w-3xl text-xl text-[#525252]">
@@ -165,7 +165,7 @@ const Contact = () => {
                       className="mt-10 inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-neutral-950 text-white hover:bg-neutral-800"
                     >
                       <span className="relative top-px">
-                        Let's work together
+                        {`Let's work together`}
                       </span>
                     </button>
                   </form>
