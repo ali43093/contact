@@ -79,7 +79,7 @@ const Contact = () => {
                   </span>
                 </h1>
                 <div className="font-mona-sans mt-6 max-w-3xl text-xl text-[#525252]">
-                  <p>We can't wait to work with you</p>
+                  <p>{`We can't wait to work with you`}</p>
                 </div>
               </div>
             </div>
